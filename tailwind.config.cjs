@@ -22,6 +22,13 @@ module.exports = {
           300: '#e3e5e8',
           200: '#ebedef',
           100: '#f2f3f5'
+        },
+        purple: {
+          primary: '#7C3AED',
+          secondary: '#9F67FF'
+        },
+        red:{
+          primary: '#ED3A5A'
         }
       }
     },
